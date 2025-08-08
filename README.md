@@ -24,9 +24,10 @@ NOTE: THIS IS A PROOF OF CONCEPT AND THE DATABASE SIZE IS LARGE
 - Jaguar: 9 (33.9 MB)
 - NEOGEO: 6 (93.0 MB)
 - ODYSSEY2: 34 (2.1 MB)
+- RX78: 16 (62.1 MB)
 - SMS: 3 (21.0 MB)
 - TGFX16: 3 (6.9 MB)
 - VIC20: 19 (16.0 MB)
 - WonderSwan: 2 (16.5 MB)
 
-🧮 Total DB Size: 169 files (272.22 MB)
+🧮 Total DB Size: 185 files (334.28 MB)
