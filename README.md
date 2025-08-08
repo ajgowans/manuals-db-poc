@@ -1,4 +1,4 @@
-# The MiSTer Database For Work In Progress Core 
+# The MiSTer Database For Game Manuals (POC) 
 
 This is a POC database for the MiSTer project that downloads .pdf game manuals to the relevant folder within "/media/fat/docs".  These can be loaded from within the core's OSD by selecting the "Help" option.
 
@@ -13,17 +13,18 @@ NOTE: THIS IS A PROOF OF CONCEPT AND THE DATABASE SIZE IS LARGE
 
  ## Currently Included Cores With Game Manuals
 
-- AVision: 4
-- AcornAtom: 1
-- Astrocade: 14
-- CD-i: 6
-- ChannelF: 16
-- CoCo2: 6
-- CreatiVision: 15
-- Jaguar: 9
-- NEOGEO: 6
-- SMS: 3
-- TGFX16: 3
-- WonderSwan: 2
+- AVision: 4 (1.3 MB)
+- AcornAtom: 1 (3.4 MB)
+- Astrocade: 14 (8.5 MB)
+- CD-i: 6 (29.6 MB)
+- ChannelF: 16 (1.7 MB)
+- CoCo2: 6 (3.9 MB)
+- CreatiVision: 15 (3.4 MB)
+- Jaguar: 9 (33.9 MB)
+- NEOGEO: 6 (93.0 MB)
+- ODYSSEY2: 34 (2.1 MB)
+- SMS: 3 (21.0 MB)
+- TGFX16: 3 (6.9 MB)
+- WonderSwan: 2 (16.5 MB)
 
-🧮 Total DB Size: 223.07 MB
+🧮 Total DB Size: 119 files (225.17 MB)
