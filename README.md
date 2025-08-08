@@ -25,6 +25,7 @@ NOTE: THIS IS A PROOF OF CONCEPT AND THE DATABASE SIZE IS LARGE
 - ODYSSEY2: 34 (2.1 MB)
 - SMS: 3 (21.0 MB)
 - TGFX16: 3 (6.9 MB)
+- VIC20: 19 (16.0 MB)
 - WonderSwan: 2 (16.5 MB)
 
-🧮 Total DB Size: 119 files (225.17 MB)
+🧮 Total DB Size: 138 files (241.18 MB)
