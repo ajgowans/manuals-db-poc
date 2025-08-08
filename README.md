@@ -15,6 +15,7 @@ NOTE: THIS IS A PROOF OF CONCEPT AND THE DATABASE SIZE IS LARGE
 
 - AVision: 4 (1.3 MB)
 - AcornAtom: 1 (3.4 MB)
+- Arcadia: 31 (31.0 MB)
 - Astrocade: 14 (8.5 MB)
 - CD-i: 6 (29.6 MB)
 - ChannelF: 16 (1.7 MB)
@@ -28,4 +29,4 @@ NOTE: THIS IS A PROOF OF CONCEPT AND THE DATABASE SIZE IS LARGE
 - VIC20: 19 (16.0 MB)
 - WonderSwan: 2 (16.5 MB)
 
-🧮 Total DB Size: 138 files (241.18 MB)
+🧮 Total DB Size: 169 files (272.22 MB)
